@@ -1,0 +1,7 @@
+{
+    "private": true,
+    "name": "sunday-lerna",
+    "workspaces": [
+        "packages/*"
+    ]
+}

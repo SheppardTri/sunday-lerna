@@ -1,0 +1,7 @@
+{
+  "name": "@sunday-lerna/package-a",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sheppardtri",
+  "license": "MIT"
+}

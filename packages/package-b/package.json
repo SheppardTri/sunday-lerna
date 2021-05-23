@@ -1,0 +1,11 @@
+{
+  "name": "@sunday-lerna/package-b",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "sheppardtri",
+  "license": "MIT",
+  "dependencies": {
+    "@sunday-lerna/package-a": "1.0.0",
+    "bootstrap": "^5.0.1"
+  }
+}
